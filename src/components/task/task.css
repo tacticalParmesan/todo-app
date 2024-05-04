@@ -1,0 +1,13 @@
+.task-container{
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+}
+
+.task-card{
+    background-color: azure;
+    border: 1px solid black;
+    height: 60px;
+    width: 100%;
+
+}

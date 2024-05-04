@@ -1,0 +1,29 @@
+header {
+    width: 100vw;
+    height: 60px;
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+}
+
+.header-container {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.user-info-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem
+}
+
